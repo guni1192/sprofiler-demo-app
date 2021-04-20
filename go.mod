@@ -1,3 +1,3 @@
-module github.com/sai-lab/go-template
+module github.com/guni1192/sprofiler-demo-app
 
 go 1.15
